@@ -14,5 +14,6 @@ For each unprocessed word (limit 50):
   - If the entry cannot be filled by all the above priority method, then leave it to be blank.
 git add/commit/push/pr/merge main branch per 500 words are updated.
 Stop when all words in the book (ket.json or pet.json) and not in ielts.json are verified
+Sample: refer to the spec.md and words in ielts.json.
 Return: processed count, remaining count only
 
